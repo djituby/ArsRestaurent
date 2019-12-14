@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ars Restaurent Admin</string>
+    <string name="sign_in_label">Sign In</string>
+    <string name="credential_label">Enter your credentials</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="no_account">Don\'t have an account ?</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="password2_hint">Password again</string>
+    <string name="getStarted">Get started with zeekonect</string>
+    <string name="tc">Terms and Conditions</string>
+    <string name="instead">Instead</string>
+    <string name="service_date"><u>Date to provide service</u></string>
+    <string name="client_contact"><u>Client Contact</u></string>
+    <string name="service_time"><u>Service time</u></string>
+    <string name="service_location"><u>Location for service</u></string>
+    <string name="full_address"><u>Full address</u></string>
+    <string name="service_city"><u>City</u></string>
+    <string name="agree">I agree</string>
+</resources>

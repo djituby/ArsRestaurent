@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68615490280",
+    "firebase_url": "https://arsrestaurentadmin.firebaseio.com",
+    "project_id": "arsrestaurentadmin",
+    "storage_bucket": "arsrestaurentadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68615490280:android:ce1eccf0c9ce228307975d",
+        "android_client_info": {
+          "package_name": "com.arsdevelopers.arsrestaurentadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68615490280-5ibvr9ln9990khlhqt70kbl3mues1q7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsdevelopers.arsrestaurentadmin",
+            "certificate_hash": "1dff619c8869c44e09063680d8e72a3482995b70"
+          }
+        },
+        {
+          "client_id": "68615490280-dq9a7e3nshd8k2jf41knta5drpnmr7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6itp-YXhewN-qhAU9h_pBW4ozLco8eRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68615490280-dq9a7e3nshd8k2jf41knta5drpnmr7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
